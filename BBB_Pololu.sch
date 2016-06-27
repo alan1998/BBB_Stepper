@@ -1,4 +1,5 @@
 EESchema Schematic File Version 2
+LIBS:BBB_Pololu-rescue
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -76,7 +77,7 @@ F 3 "" H 2750 1200 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L +V_MOTOR #PWR01
+L +V_MOTOR-RESCUE-BBB_Pololu #PWR01
 U 1 1 576AF6C1
 P 2150 1100
 F 0 "#PWR01" H 2150 1070 30  0001 C CNN
